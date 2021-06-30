@@ -1,5 +1,5 @@
 # Supervised-Learning in Regression & Classification Settings
-A simple guide for building supervised statistical models for Regression and Classification problems.
+Supervised Learning is a class of Machine Learning algorithms which have a defined response/target variable. This set of alorithms is best suited to leverage labeled data in order to build statistical models for Regression and Classification problems.
 
 * Classification problems imply that the response (target) variable being predicted is **Categorical**
 
