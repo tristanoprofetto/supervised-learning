@@ -3,7 +3,7 @@ Supervised Learning is a class of Machine Learning algorithms which have a defin
 
 * Classification problems imply that the response (target) variable being predicted is **Categorical**
 
-* Regression problems implies a predicted response which is **Numeric**
+* Regression problems implies a predicted response is **Numeric**
 
 Implementations for the respective models are applied in both **Python** (JupyterNB) and **R**...
 
